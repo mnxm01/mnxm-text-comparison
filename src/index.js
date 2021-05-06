@@ -1,3 +1,3 @@
-import LD from "./package/ld"
+import ld from "./package/ld"
 
-export const LD;
+export const LD = ld;
